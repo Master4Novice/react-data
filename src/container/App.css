@@ -32,9 +32,18 @@
 }
 
 #up {
-  color: red;
+  color: #FF5733;
 }
 
 #down {
-  color: green;
+  color: #20C310;
+}
+
+#header {
+  opacity: 0.6;
+  color: #FFFFFF;
+}
+
+#header-text {
+  color: #FFFFFF !important;
 }
