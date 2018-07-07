@@ -26,3 +26,15 @@
   from { transform: rotate(0deg); }
   to { transform: rotate(360deg); }
 }
+
+.Data-title {
+  color: #FFFFFF;
+}
+
+#up {
+  color: red;
+}
+
+#down {
+  color: green;
+}
